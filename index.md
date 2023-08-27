@@ -1,5 +1,7 @@
 # WARUNGASE ASSOCIATES
 
+<img src="my_logo.jpg" alt="My Logo">
+
 <div style="display: flex; align-items: center;">
     <img src="LIC.png" alt="LIC" style="width: 120px; margin-right: 10px;">
     <img src="star-health.png" alt="Star Health" style="width: 120px; margin-right: 10px;">
