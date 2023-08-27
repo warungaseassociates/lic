@@ -1,9 +1,9 @@
 # WARUNGASE ASSOCIATES
 
 <div style="display: flex; align-items: center;">
-    <img src="LIC.png" alt="LIC" style="margin-right: 10px;">
-    <img src="star-health.png" alt="Star Health" style="margin-right: 10px;">
-    <img src="new-india-assurance.png" alt="New India Assurance">
+    <img src="LIC.png" alt="LIC" style="width: 80px; margin-right: 10px;">
+    <img src="star-health.png" alt="Star Health" style="width: 80px; margin-right: 10px;">
+    <img src="new-india-assurance.png" alt="New India Assurance" style="width: 80px;">
 </div>
 
 <img src="ch_plan.jpg" alt="Child Planning"> 
