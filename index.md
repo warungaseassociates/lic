@@ -1,7 +1,7 @@
 
 # WARUNGASE ASSOCIATES
 
-![Retirement Plan](~/.ret_plan.jpg)
+![Retirement Plan] ret_plan.jpg
 
 
 
