@@ -21,9 +21,9 @@
  
 ## FEEL FREE TO CONTACT US
 
-WARUNGASE ASSOCIATES<br>
-Monday - Sunday : 9am - 6pm<br>
-Contact Number: 9822514956
+**WARUNGASE ASSOCIATES**<br>
+**Monday - Sunday : Morning 09:00 - 06:00 Evening**<br>
+**Contact Number: 9822514956**
 
 
 
