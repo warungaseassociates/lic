@@ -12,7 +12,10 @@
 <br><br>
 <img src="ret_plan.jpg" alt="Retirement Plannings">
 <br>
-[Inquire About Retirement Plan](https://www.google.com/)
+<div style="text-align:center;">
+    <a href="https://www.google.com/" style="display:inline-block; padding:10px 20px; background-color:#007bff; color:#fff; text-decoration:none; border-radius:5px;">Inquire About Child Education Plan</a>
+</div>
+
 <br><br>
 
 ## OUR SERVICES
