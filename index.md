@@ -4,15 +4,15 @@
 
 <img src="ch_plan.jpg" alt="Child Planning"> 
 <br>
-[link to Google](https://www.google.com/)
+[Inquire About Child Education Plan](https://www.google.com/)
 <br><br>
 <img src="fin_plan.jpg" alt="Financial Planning">
 <br>
-[link to Google](https://www.google.com/)
+[Inquire About Financial Plan](https://www.google.com/)
 <br><br>
 <img src="ret_plan.jpg" alt="Retirement Plannings">
 <br>
-[link to Google](https://www.google.com/)
+[Inquire About Retirement Plan](https://www.google.com/)
 <br><br>
 
 ## OUR SERVICES
