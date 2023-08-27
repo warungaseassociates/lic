@@ -2,7 +2,9 @@
 
 ## We Cover All Types of Insurances
 
-<img src="ret_plan.jpg" alt="alternative_text_here">
+<img src="ch_plan.jpg" alt="Child Planning"> <br>
+<img src="fin_plan.jpg" alt="Financial Planning"> <br>
+<img src="ret_plan.jpg" alt="Retirement Plannings"> <br>
 
 ## OUR SERVICES
 
