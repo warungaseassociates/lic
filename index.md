@@ -2,36 +2,19 @@
 
 ## We Cover All Types of Insurance
 
-<div style="text-align:center;">
-    <a href="https://www.google.com/" style="display:inline-block; padding:10px 0; width:300px; background-color:#007bff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold; cursor:pointer;">👉 Click Here to Inquire About Child Education Plan</a>
-</div>
-
-<div style="text-align:center;">
-    <a href="https://www.google.com/" style="display:inline-block; padding:10px 0; width:300px; background-color:#007bff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold; cursor:pointer;">🖐️ Inquire About Child Education Plan</a>
-</div>
-
-
-<div style="text-align:center;">
-    <a href="https://www.google.com/" style="display:inline-block; padding:10px 0; width:300px; background-color:#007bff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold; text-decoration:underline;">Inquire About Child Education Plan</a>
-</div>
-
-<div style="text-align:center;">
-    <a href="https://www.google.com/" style="display:inline-block; padding:10px 0; width:300px; background-color:#007bff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold; cursor:pointer;">🔗 Inquire About Child Education Plan</a>
-</div>
-
 <img src="ch_plan.jpg" alt="Child Planning"> 
 <div style="text-align:center;">
-    <a href="https://www.google.com/" style="display:inline-block; padding:10px 0; width:300px; background-color:#008000; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">Inquire About Child Education Plan</a>
+    <a href="https://www.google.com/" style="display:inline-block; padding:10px 0; width:300px; background-color:#008000; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">👉 Click Here for Child Education Plan</a>
 </div>
 
 <img src="fin_plan.jpg" alt="Financial Planning">
 <div style="text-align:center;">
-    <a href="https://www.google.com/" style="display:inline-block; padding:10px 0; width:300px; background-color:#008000; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">Inquire About Financial Plan</a>
+    <a href="https://www.google.com/" style="display:inline-block; padding:10px 0; width:300px; background-color:#008000; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">👉 Click Here for Financial Plan</a>
 </div>
 
 <img src="ret_plan.jpg" alt="Financial Planning">
 <div style="text-align:center;">
-    <a href="https://www.google.com/" style="display:inline-block; padding:10px 0; width:300px; background-color:#008000; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">Inquire About Retirement Plan</a>
+    <a href="https://www.google.com/" style="display:inline-block; padding:10px 0; width:300px; background-color:#008000; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">👉 Click Here for Retirement Plan</a>
 </div>
 
 
