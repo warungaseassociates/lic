@@ -18,7 +18,7 @@
 </div>
 
 
-## OUR SERVICES
+### OUR SERVICES
 
 - Policy Revival
 - Policy Surrender
@@ -30,13 +30,13 @@
 - Change in Address    
 - Change in Premium mode & Other
 
-## SPECIAL SERVICES
+### SPECIAL SERVICES
 
 - LIC Premium Reminder Notice
 - LIC Policy Status
 - LIC Policy Tax Certificate
  
-## FEEL FREE TO CONTACT US
+### FEEL FREE TO CONTACT US
 
 **WARUNGASE ASSOCIATES**<br>
 **Monday - Sunday**<br>
