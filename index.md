@@ -3,19 +3,13 @@
 ## We Cover All Types of Insurance
 
 <img src="ch_plan.jpg" alt="Child Planning"> 
-<br>
 [Inquire About Child Education Plan](https://www.google.com/)
-<br><br>
 <img src="fin_plan.jpg" alt="Financial Planning">
-<br>
 [Inquire About Financial Plan](https://www.google.com/)
-<br><br>
 <img src="ret_plan.jpg" alt="Retirement Plannings">
-<br>
 <div style="text-align:center;">
-    <a href="https://www.google.com/" style="display:inline-block; padding:10px 20px; background-color:#e74c3c; color:#008000; text-decoration:none; border-radius:5px;">Inquire About Child Education Plan</a>
+    <a href="https://www.google.com/" style="display:inline-block; padding:10px 20px; background-color:#008000; color:#ffffff; text-decoration:none; border-radius:5px;">Inquire About Child Education Plan</a>
 </div>
-<br><br>
 
 ## OUR SERVICES
 
