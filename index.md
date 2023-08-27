@@ -1,9 +1,7 @@
 
 # WARUNGASE ASSOCIATES
 
-![Retirement Plan] ret_plan.jpg
-
-
+<img src="ret_plan.jpg" alt="alternative_text_here">
 
 ## OUR SERVICES
 
