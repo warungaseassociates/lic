@@ -3,8 +3,11 @@
 ## We Cover All Types of Insurance
 
 <img src="ch_plan.jpg" alt="Child Planning"> <br><br>
+[link to Google](https://www.google.com/)
 <img src="fin_plan.jpg" alt="Financial Planning"> <br><br>
+[link to Google](https://www.google.com/)
 <img src="ret_plan.jpg" alt="Retirement Plannings"> <br><br>
+[link to Google](https://www.google.com/)
 
 ## OUR SERVICES
 
