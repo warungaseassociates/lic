@@ -3,6 +3,10 @@
 ## We Cover All Types of Insurance
 
 <div style="text-align:center;">
+    <a href="https://www.google.com/" style="display:inline-block; padding:10px 0; width:300px; background-color:#007bff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold; cursor:pointer;">👉 Click Here to Inquire About Child Education Plan</a>
+</div>
+
+<div style="text-align:center;">
     <a href="https://www.google.com/" style="display:inline-block; padding:10px 0; width:300px; background-color:#007bff; color:#fff; text-decoration:none; border-radius:5px; font-weight:bold; cursor:pointer;">🖐️ Inquire About Child Education Plan</a>
 </div>
 
