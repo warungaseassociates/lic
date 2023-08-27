@@ -1,5 +1,6 @@
+# WARUNGASE ASSOCIATES
 
-## We Cover All Types of Insurances
+### We Cover All Types of Insurances
 
 <img src="ret_plan.jpg" alt="alternative_text_here">
 
