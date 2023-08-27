@@ -4,17 +4,17 @@
 
 <img src="ch_plan.jpg" alt="Child Planning"> 
 <div style="text-align:center;">
-    <a href="http://sforms.ishinedigital.com/ChildEducation.aspx?cid=9822514956" style="display:inline-block; padding:10px 0; width:400px; background-color:#008000; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">👉 Click Here for Child Education Plan</a>
+    <a href="http://sforms.ishinedigital.com/ChildEducation.aspx?cid=9822514956" style="display:inline-block; padding:10px 0; width:350px; background-color:#008000; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">👉 Click Here for Child Education Plan</a>
 </div>
 
 <img src="fin_plan.jpg" alt="Financial Planning">
 <div style="text-align:center;">
-    <a href="http://sforms.ishinedigital.com/survey.aspx?cid=9822514956" style="display:inline-block; padding:10px 0; width:300px; background-color:#008000; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">👉 Click Here for Financial Plan</a>
+    <a href="http://sforms.ishinedigital.com/survey.aspx?cid=9822514956" style="display:inline-block; padding:10px 0; width:350px; background-color:#008000; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">👉 Click Here for Financial Plan</a>
 </div>
 
 <img src="ret_plan.jpg" alt="Financial Planning">
 <div style="text-align:center;">
-    <a href="http://sforms.ishinedigital.com/RetirementSurvey.aspx?cid=9822514956" style="display:inline-block; padding:10px 0; width:300px; background-color:#008000; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">👉 Click Here for Retirement Plan</a>
+    <a href="http://sforms.ishinedigital.com/RetirementSurvey.aspx?cid=9822514956" style="display:inline-block; padding:10px 0; width:350px; background-color:#008000; color:#ffffff; text-decoration:none; border-radius:5px; font-weight:bold;">👉 Click Here for Retirement Plan</a>
 </div>
 
 
