@@ -1,6 +1,6 @@
 # WARUNGASE ASSOCIATES
 
-## We Cover All Types of Insurances
+## We Cover All Types of Insurance
 
 <img src="ch_plan.jpg" alt="Child Planning"> <br>
 <img src="fin_plan.jpg" alt="Financial Planning"> <br>
